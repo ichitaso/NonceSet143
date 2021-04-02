@@ -1,0 +1,14 @@
+Author: ichitaso
+Maintainer: ichitaso
+Name: NonceSet143
+Package: com.ichitaso.nonceset143
+Depends: firmware (>= 12.0)
+Section: Utilities
+Version: 0.0.5
+Architecture: iphoneos-arm
+Description: An app that set of generator and gets a ApNonce
+Depiction: https://cydia.ichitaso.com/depiction/nonseset143.html
+Homepage: https://ichitaso.com/
+dev: ichitaso
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/NonceSet143.app/AppIcon60x60@3x.png
