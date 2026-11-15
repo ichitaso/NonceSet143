@@ -12,3 +12,6 @@ obj/*
 *.zip
 .vscode/*
 simulator
+.DS_Store
+packages/
+build_libdimentia.dylib.txt
